@@ -6,8 +6,8 @@ I WANT an API for my social network that uses a NoSQL database
 SO THAT my website can handle large amounts of unstructured data
 
 # Links
-- github:
-- video: 
+- github: https://github.com/bspratford7719/SocNet
+- video: https://drive.google.com/file/d/1RRGqWAcC8PXZobAM8lE2ZyrCjxJMzBDe/view
 
 # Screenshot
 
